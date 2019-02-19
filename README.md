@@ -1,10 +1,16 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- One
+- Two
+- Three
+- Four
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Uno
+- Dos
+- Tres
+- Cuatro
 
 ## Getting started
 
